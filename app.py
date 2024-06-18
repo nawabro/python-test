@@ -1,2 +1,2 @@
-def add(a,b):
+def add():
     print('hellow banana')
